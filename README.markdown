@@ -72,6 +72,7 @@ Screenshot tersedia di file `hafis_afriz2l-dashboard.png`. Untuk mengakses dashb
 Setelah setup environment selesai, jalankan berkas `prediction.py` (file utama untuk prediksi) dengan perintah berikut di terminal:
 
 python prediction.py
+atau klik https://projek-prediction-karyawan-e6vdzsdim3wdvivauzm3c6.streamlit.app/
 
 - Pastikan virtual environment aktif sebelum menjalankan perintah di atas (lihat instruksi di "Setup Environment").
 - **Prasyarat Penting**: 
