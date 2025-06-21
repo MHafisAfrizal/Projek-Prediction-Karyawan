@@ -4,7 +4,7 @@ import pickle
 
 # Load model
 try:
-    with open('Model/rf_model.pkl', 'rb') as file:
+    with open('model/rf_model.pkl', 'rb') as file:
         model = pickle.load(file)
 except Exception as e:
     st.error(f"❌ Gagal memuat model: {e}")
